@@ -1,11 +1,9 @@
 title: Evaristo Villaseco # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Physics PhD 
+  Physics PhD | Data Scientist
   <br><br>
-  Data Scientist
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/evaristo-villaseco-arribas-670050155/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
