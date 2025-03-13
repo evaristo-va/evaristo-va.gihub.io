@@ -3,6 +3,7 @@
 ---
 
 ### Category Name 1 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
