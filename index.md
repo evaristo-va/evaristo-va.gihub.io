@@ -31,6 +31,12 @@
 
 > In this project we fine-tuned large language models (LLaMA 2, BERT, GPT-2) to standardize product categorization across restaurant suppliers, achieving ~92.5% classification accuracy. We leveraged efficient fine-tuning techniques, including LoRA (Low Rank Adaptation), to enhance performance while reducing computational costs.
 
+3. [ChefSight: Data-driven insights for Restaurants](https://github.com/EIB-Restaurant/burnt_labels)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed3c70e6-b25d-4834-80e1-635b047acb91" width="500">
+</p>
+
+> In this project we used real-world time series data from restaurants to forecast the total revenue and menu item sales based leveraging key external and operational factors. We also performed extensive restaurant analytics providing identifying key trends in daily, seasonal, and monthly performance, with notable fluctuations in customer activity and sales patterns.
 
 ## Research Publications
 
