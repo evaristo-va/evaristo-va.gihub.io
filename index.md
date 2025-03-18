@@ -40,7 +40,7 @@
 
 ## Physics Research
 
- [Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
+4. [Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
 
 <p align="center">
 <iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
