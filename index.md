@@ -9,7 +9,9 @@
 
 ## Machine Learning Projects 
 1. [LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
-   
+
+![LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4" width="500" />
 </p>
@@ -20,6 +22,8 @@
 2. <a href="https://github.com/EIB-Restaurant/burnt_labels"
    GenAI-Powered Solutions for the Restaurant Industry
    </a>
+   
+![GenAI-Powered Solutions for the Restaurant Industry](https://github.com/user-attachments/assets/f059d88e-55a7-4f89-a702-61f831e38e6d)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f059d88e-55a7-4f89-a702-61f831e38e6d" width="500">
