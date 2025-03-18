@@ -51,16 +51,16 @@
 
 ## Research Publications
 
-- **E. Villaseco Arribas** and N. T. Maitra. [Phys. Rev. Lett. 133, 233201 (2024)](http://example.com/)
-- **E. Villaseco Arribas**, N. T. Maitra and F. Agostini. [J. Chem. Phys. 160, 054102 (2024)](http://example.com/)
-- L. M. Ibele, E. Sangiogo Gil, **E. Villaseco Arribas**, and F. Agostini. [Phys. Chem. Chem. Phys. (2024)](http://example.com/)
-- A. Pollien, **E. Villaseco Arribas**, D. Lauvergnat, and F. Agostini. [Mol. Phys. 0 (2024), e2378960](http://example.com/)
-- **E. Villaseco Arribas** and N. T. Maitra. [J. Chem. Phys. Commun. 158, 161105 (2023)](http://example.com/)
-- **E. Villaseco Arribas**, L. M. Ibele, D. Lauvergnat, N T. Maitra, and Federica Agostini. [J. Chem. Theory Comput. 19 (2023)](http://example.com/)
-- **E. Villaseco Arribas**, P. Vindel-Zandbergen, S. Roy, and N. T. Maitra. [Phys. Chem. Chem. Phys. 25, 26380 (2023)](http://example.com/)
-- **E. Villaseco Arribas**, F. Agostini, and N. T. Maitra. [Molecules 27 (2022), p. 13](http://example.com/)
-- A. Emelianova, E. A. Basharova, A. L. Kolesnikov, E. Villaseco Arribas, E. V. Ivanova and G. Y. Gor. [J. Phys. Chem. B 125, 16, 4086-4098 (2021)](http://example.com/)
-- A.L. Ruiz, **E. Villaseco Arribas** and K. McEnnis. [Mater. Adv., 3, 2858-2870 (2022)](http://example.com/)
+- **E. Villaseco Arribas** and N. T. Maitra. [Phys. Rev. Lett. 133, 233201 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.233201)
+- **E. Villaseco Arribas**, N. T. Maitra and F. Agostini. [J. Chem. Phys. 160, 054102 (2024)](https://doi.org/10.1063/5.0186984)
+- L. M. Ibele, E. Sangiogo Gil, **E. Villaseco Arribas**, and F. Agostini. [Phys. Chem. Chem. Phys. (2024)](https://pubs.rsc.org/en/content/articlehtml/2024/cp/d4cp02489c)
+- A. Pollien, **E. Villaseco Arribas**, D. Lauvergnat, and F. Agostini. [Mol. Phys. 0 (2024), e2378960](https://doi.org/10.1080/00268976.2024.2378960)
+- **E. Villaseco Arribas** and N. T. Maitra. [J. Chem. Phys. Commun. 158, 161105 (2023)](https://doi.org/10.1063/5.0149116)
+- **E. Villaseco Arribas**, L. M. Ibele, D. Lauvergnat, N T. Maitra, and Federica Agostini. [J. Chem. Theory Comput. 19 (2023)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00845)
+- **E. Villaseco Arribas**, P. Vindel-Zandbergen, S. Roy, and N. T. Maitra. [Phys. Chem. Chem. Phys. 25, 26380 (2023)](https://doi.org/10.1039/D3CP03464J)
+- **E. Villaseco Arribas**, F. Agostini, and N. T. Maitra. [Molecules 27 (2022), p. 13](https://www.mdpi.com/1420-3049/27/13/4002)
+- A. Emelianova, E. A. Basharova, A. L. Kolesnikov, E. Villaseco Arribas, E. V. Ivanova and G. Y. Gor. [J. Phys. Chem. B 125, 16, 4086-4098 (2021)](https://doi.org/10.1021/acs.jpcb.0c10505)
+- A.L. Ruiz, **E. Villaseco Arribas** and K. McEnnis. [Mater. Adv., 3, 2858-2870 (2022)](https://pubs.rsc.org/en/content/articlehtml/2022/ma/d1ma01155c)
 
   
 ---
