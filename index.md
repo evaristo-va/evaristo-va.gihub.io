@@ -35,6 +35,9 @@
 > In this project we used real-world time series data from restaurants to forecast the total revenue and menu item sales leveraging key external and operational factors. We also performed extensive restaurant analytics identifying key trends in daily, seasonal, and monthly performance, with notable fluctuations in customer activity and sales patterns.
 
 ## Physics Research
+
+ [Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
+
 <p align="center">
 <iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
