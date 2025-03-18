@@ -30,17 +30,8 @@
 
 > In this project we fine-tuned large language models (LLaMA 2, BERT, GPT-2) to standardize product categorization across restaurant suppliers, achieving ~92.5% classification accuracy. We leveraged efficient fine-tuning techniques, including LoRA (Low Rank Adaptation), to enhance performance while reducing computational costs.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
+## Research Publications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
