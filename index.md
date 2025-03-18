@@ -8,9 +8,7 @@
  
 
 ## Machine Learning Projects 
-1. [LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
-
-![LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
+[LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4" width="500" />
@@ -19,11 +17,7 @@
 
 > In this project we developed a random forest model to predict La Liga soccer match outcomes. The model features were engineered from historical match data, including team perfromance metrics and situational factors. The model achieved 75% accuracy and outperformed bookmaker implied probabilities by 24%.
 
-2. <a href="https://github.com/EIB-Restaurant/burnt_labels"
-   GenAI-Powered Solutions for the Restaurant Industry
-   </a>
-   
-![GenAI-Powered Solutions for the Restaurant Industry](https://github.com/user-attachments/assets/f059d88e-55a7-4f89-a702-61f831e38e6d)
+[GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f059d88e-55a7-4f89-a702-61f831e38e6d" width="500">
@@ -34,7 +28,7 @@
 >
 > Contributors: Dr. Amir Kazemi-Moridani and Dr. Davood Dar.
 
-3. [ChefSight: Data-driven insights for Restaurants](https://github.com/EIB-Restaurant/burnt_labels)
+[ChefSight: Data-driven insights for Restaurants](https://github.com/EIB-Restaurant/burnt_labels)
    
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6c6b3b2-5360-422d-a4f6-d8c2800b01d3" width="500">
@@ -46,7 +40,7 @@
 
 ## Physics Research
 
-4. [Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
+[Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
 
 <p align="center">
 <iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
