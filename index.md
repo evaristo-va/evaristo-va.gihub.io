@@ -1,6 +1,5 @@
  <a href="https://www.linkedin.com/in/evaristo-villaseco-arribas-phd-670050155/" style="float: right;">LinkedIn &emsp;</a> 
  <a href="https://github.com/evaristo-va" style="float: right;">Github &emsp;</a> 
- <a href="https://scholar.google.com/citations?user=Nle5HKQAAAAJ&hl=en&oi=ao" style="float: right;">&emsp; Google Scholar &emsp;</a> 
  <a href="pdf/sample_presentation.pdf" style="float: right;" >&emsp; Resume</a>
  <a href="pdf/sample_presentation.pdf" style="float: right;" >&emsp; CV</a>
  <br><br>
