@@ -25,6 +25,8 @@
 
 
 > In this project we fine-tuned large language models (LLaMA 2, BERT, GPT-2) to standardize product categorization across restaurant suppliers, achieving ~92.5% classification accuracy. We leveraged efficient fine-tuning techniques, including LoRA (Low Rank Adaptation), to enhance performance while reducing computational costs.
+>
+> Contributors: Amir Kazemi-Moridani and Davood Dar.
 
 3. [ChefSight: Data-driven insights for Restaurants](https://github.com/EIB-Restaurant/burnt_labels)
    
