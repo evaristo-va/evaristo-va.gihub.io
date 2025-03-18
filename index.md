@@ -12,8 +12,7 @@
 <iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-> My PhD work focused on advancing the understanding of electron-nuclear coupling on molecular behavior by developing rigorous and practical mixed quantum-classical methods based on the exact factorization of the molecular wavefunction. 
-
+> My PhD research focused on understanding and modeling the fundamental interactions that drive photochemical reactions. It turns out that the motion of electrons and nuclei in molecules is highly correlated—and figuring out how they influence each other is key to unraveling the mechanisms behind many important processes in physics, chemistry, industry, and biology. Think charge transfer in solar cells, DNA damage from UV light, breakthroughs in biomedical imaging, advancements in quantum computing, and the design of better catalysts. The fundamental equations underlying the dynamics of these systems is long known but impossible to solve, so there is a need to develop approximate methods which are not only accurate but also computationally efficient. To tackle this, I worked on the development of novel computational methods to simulate these complex molecular dynamics, outperforming standard approaches in nonadiabatic molecular simulations.
 ## Machine Learning Projects 
 1. [LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
 <p align="center">
