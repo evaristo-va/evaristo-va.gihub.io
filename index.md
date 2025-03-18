@@ -7,13 +7,6 @@
 
  
 
-## Physics Research
-<p align="center">
-<iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
-> When molecules get excited by light, the motion of electrons and nuclei become highly correlated—and figuring out how they influence each other is key to unraveling the mechanisms behind many important processes in physics, chemistry, industry, and biology. Think charge transfer in solar cells, DNA damage from UV light, breakthroughs in biomedical imaging, advancements in quantum computing, and the design of better catalysts. During my PhD research, I worked on the development of novel computational schemes aimed at simulating these complex molecular processes in an efficient and accurate manner, outpeforming standard approaches in nonadiabatic molecular simulations.
-
 ## Machine Learning Projects 
 1. [LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
    
@@ -40,6 +33,14 @@
 </p>
 
 > In this project we used real-world time series data from restaurants to forecast the total revenue and menu item sales leveraging key external and operational factors. We also performed extensive restaurant analytics identifying key trends in daily, seasonal, and monthly performance, with notable fluctuations in customer activity and sales patterns.
+
+## Physics Research
+<p align="center">
+<iframe width="500" height="281" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+> When molecules get excited by light, the motion of electrons and nuclei become highly correlated—and figuring out how they influence each other is key to unraveling the mechanisms behind many important processes in physics, chemistry, industry, and biology. Think charge transfer in solar cells, DNA damage from UV light, breakthroughs in biomedical imaging, advancements in quantum computing, and the design of better catalysts. During my PhD research, I worked on the development of novel computational schemes aimed at simulating these complex molecular processes in an efficient and accurate manner, outpeforming standard approaches in nonadiabatic molecular simulations.
+
 
 ## Research Publications
 
