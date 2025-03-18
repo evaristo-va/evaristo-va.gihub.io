@@ -9,7 +9,9 @@
 
 ## Research
 My PhD work focused on advancing the understanding of electron-nuclear coupling on molecular behavior by developing rigorous and practical mixed quantum-classical methods based on the exact factorization of the molecular wavefunction. 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+<iframe width="400" height="225" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0"    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ## Machine Learning Projects 
 1. [LaLiga Soccer Sage](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
