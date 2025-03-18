@@ -23,7 +23,7 @@
 
 > In this project we developed a random forest model to predict La Liga soccer match outcomes. The model features were engineered from historical match data, including team perfromance metrics and situational factors. The model achieved 75% accuracy and outperformed bookmaker implied probabilities by 24%.
 
-1. [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
+2. [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8898e562-0507-457b-b9d6-180879cd1785" width="500">
 </p>
