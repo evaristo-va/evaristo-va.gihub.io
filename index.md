@@ -33,7 +33,7 @@
 
 ## Research Publications
 
-- [Project 1 Title](http://example.com/)
+- **E. Villaseco Arribas** and N. T. Maitra. Electronic Coherences in Molecules: The Projected Nuclear Quantum Momentum as a Hidden Agent. [Phys. Rev. Lett. 133, 233201 (2024)](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
