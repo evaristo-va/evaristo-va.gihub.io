@@ -34,11 +34,15 @@
 ## Research Publications
 
 - **E. Villaseco Arribas** and N. T. Maitra. Electronic Coherences in Molecules: The Projected Nuclear Quantum Momentum as a Hidden Agent. [Phys. Rev. Lett. 133, 233201 (2024)](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- **E. Villaseco Arribas**, N. T. Maitra and F. Agostini. Nonadiabatic dynamics with classical trajectories: The problem of an initial coherent superposition of electronic states. [J. Chem. Phys. 160, 054102 (2024)](http://example.com/)
+- L. M. Ibele, E. Sangiogo Gil, **E. Villaseco Arribas**, and F. Agostini. Simulations of photoinduced processes with the exact factorization: State of the art and perspectives. [Phys. Chem. Chem. Phys. (2024)](http://example.com/)
+- A. Pollien, **E. Villaseco Arribas**, D. Lauvergnat, and F. Agostini. Exact-factorisation study of the photochemistry of phenol. [Mol. Phys. 0 (2024), e2378960](http://example.com/)
+- **E. Villaseco Arribas** and N. T. Maitra. Energy-conserving coupled trajectory mixed quantum-classical dynamics. [J. Chem. Phys. Commun. 158, 161105 (2023)](http://example.com/)
+- **E. Villaseco Arribas**, L. M. Ibele, D. Lauvergnat, N T. Maitra, and Federica Agostini. Significance of Energy Conservation in Coupled-Trajectory Approaches to Nonadiabatic Dynamics. [J. Chem. Theory Comput. 19 (2023)](http://example.com/)
+- **E. Villaseco Arribas**, P. Vindel-Zandbergen, S. Roy, and N. T. Maitra. Different flavors of exact-factorization-based mixed quantum-classical methods for multistate dynamics. [Phys. Chem. Chem. Phys. 25, 26380 (2023)](http://example.com/)
+- **E. Villaseco Arribas**, F. Agostini, and N. T. Maitra. Exact Factorization Adventures: A Promising Approach for Non-Bound States. [Molecules 27 (2022), p. 13](http://example.com/)
+- A. Emelianova, E. A. Basharova, A. L. Kolesnikov, E. Villaseco Arribas, E. V. Ivanova and G. Y. Gor. Force fields for molecular modeling of sarin and its simulants: DMMP and DIMP. [J. Phys. Chem. B 125, 16, 4086-4098 (2021)](http://example.com/)
+- A.L. Ruiz, **E. Villaseco Arribas** and K. McEnnis. Poly (lactic-co-glycolic acid) encapsulated platinum nanoparticles for cancer treatment. [Mater. Adv., 3, 2858-2870 (2022)](http://example.com/)
 ---
 
 
