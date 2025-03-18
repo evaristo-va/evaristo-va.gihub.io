@@ -1,10 +1,17 @@
-## Portfolio
+ <a href="https://www.linkedin.com/in/evaristo-villaseco-arribas-phd-670050155/" style="float: right;">LinkedIn &emsp;</a> 
+ <a href="https://github.com/danOSU](https://github.com/evaristo-va" style="float: right;">&emsp; Github &emsp;</a> 
+ <a href="pdf/sample_presentation.pdf" style="float: right;" >&emsp; Resume</a>
+ <a href="pdf/sample_presentation.pdf" style="float: right;" >&emsp; CV</a>
+ <br><br>
 
----
 
-### Check out my PhD thesis! 
+ 
+
+## Research
+My PhD work focused on advancing the understanding of electron-nuclear coupling on molecular behavior by developing rigorous and practical mixed quantum-classical methods based on the exact factorization of the molecular wavefunction. 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/JFDssiwvQBo?si=aonkfGmXlb5WXnYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Machine Learning Projects 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
