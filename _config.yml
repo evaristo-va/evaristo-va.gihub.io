@@ -1,7 +1,7 @@
 title: Evaristo Villaseco # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br> I am a physicist driven by a passion for understanding, modeling, and explaining the world around me. My PhD research, at the intersection of chemistry and physics, focused on developing efficient and accurate algorithms to simulate photochemical processes. <br><br> I enjoy solving real-world problems through data-driven modeling, applying my skills across diverse domains. Beyond modeling the fundamental interactions driving photochemistry, I have worked on projects ranging from predicting La Liga match outcomes to optimizing restaurant supply classification.
+  <br> I am a physicist driven by a passion for understanding, modeling, and explaining the world around me. My PhD research, at the intersection of chemistry and physics, focused on developing efficient and accurate algorithms to simulate photochemical processes. <br><br> I enjoy solving real-world problems through data-driven modeling, applying my skills across diverse domains. Beyond modeling the fundamental interactions driving photochemistry, I have applied my skills to a range of projects with significant practical applications and potential business impact, such as predicting La Liga match outcomes and optimizing restaurant supply classification.
 
   
 remote_theme: pages-themes/minimal@v0.2.0
