@@ -1,8 +1,7 @@
  <a href="https://www.linkedin.com/in/evaristo-villaseco-arribas-phd-670050155/" style="float: right;">LinkedIn &emsp;</a> 
  <a href="https://github.com/evaristo-va" style="float: right;">Github &emsp;</a> 
- <a href="https://scholar.google.com/citations?user=Nle5HKQAAAAJ&hl=en&oi=ao" style="float: right;" >Google Scholar 
+ <a href="https://scholar.google.com/citations?user=Nle5HKQAAAAJ&hl=en&oi=ao" style="float: right;" >Google Scholar &emsp;</a>
  <a href="pdf/resume-Evaristo-Villaseco.pdf" style="float: right;" >Resume &emsp; </a>
-&emsp; </a>
  <br><br>
 
 
