@@ -25,8 +25,9 @@
 
 2. [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8898e562-0507-457b-b9d6-180879cd1785" width="500">
+  <img src="https://github.com/user-attachments/assets/f059d88e-55a7-4f89-a702-61f831e38e6d" width="500">
 </p>
+
 
 > In this project we fine-tuned large language models (LLaMA 2, BERT, GPT-2) to standardize product categorization across restaurant suppliers, achieving ~92.5% classification accuracy. We leveraged efficient fine-tuning techniques, including LoRA (Low Rank Adaptation), to enhance performance while reducing computational costs.
 
