@@ -22,8 +22,12 @@ My PhD work focused on advancing the understanding of electron-nuclear coupling 
 
 > In this project we developed a random forest model to predict La Liga soccer match outcomes. The model features were engineered from historical match data, including team perfromance metrics and situational factors. The model achieved 75% accuracy and outperformed bookmaker implied probabilities by 24%.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+1. [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8898e562-0507-457b-b9d6-180879cd1785" width="500">
+</p>
+
+> In this project we fine-tuned large language models (LLaMA 2, BERT, GPT-2) to standardize product categorization across restaurant suppliers, achieving ~92.5% classification accuracy. We leveraged efficient fine-tuning techniques, including LoRA (Low Rank Adaptation), to enhance performance while reducing computational costs.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
