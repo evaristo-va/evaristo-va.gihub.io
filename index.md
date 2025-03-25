@@ -2,6 +2,7 @@
  <a href="https://github.com/evaristo-va" style="float: right;">Github &emsp;</a> 
  <a href="https://scholar.google.com/citations?user=Nle5HKQAAAAJ&hl=en&oi=ao" style="float: right;" >Google Scholar &emsp;</a>
  <a href="pdf/resume-Evaristo-Villaseco.pdf" style="float: right;" >Resume &emsp; </a>
+  <a href="pdf/CV.pdf" style="float: right;" >CV &emsp; </a>
  <br><br>
 
 
