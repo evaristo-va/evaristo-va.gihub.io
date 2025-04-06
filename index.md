@@ -25,7 +25,7 @@
   <img src="https://github.com/user-attachments/assets/54d62530-2199-490f-91e3-daa0c37fadbe" width="500" />
 </p>
 
-> In this project we designed and deployed a Streamlit-based chatbot that provides personalized diet recommendations by calculating users' Total Daily Energy Expenditure (TDEE). The chatbot uses GPT-4 with tool integration for accurate caloric estimates and conversational interactions, delivering a smooth, web-based user experience.
+> In this project, we designed and deployed an AI-powered chatbot that provides personalized diet recommendations by calculating users’ Total Daily Energy Expenditure (TDEE). The chatbot combines natural language understanding with tool integration for accurate caloric estimates and smooth conversational interactions. It was deployed on Streamlit Cloud, delivering an intuitive and fully web-based user experience.
 > 
 > Try the chatbot here: https://bitebuddy.streamlit.app/
 
