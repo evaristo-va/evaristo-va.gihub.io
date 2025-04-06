@@ -27,7 +27,7 @@
 
 > In this project, we designed and deployed BiteBuddy, an AI-powered chatbot that provides personalized diet recommendations by calculating users’ Total Daily Energy Expenditure (TDEE). The chatbot combines natural language understanding with tool integration for accurate caloric estimates and smooth conversational interactions. It was deployed on Streamlit Cloud, delivering an intuitive and fully web-based user experience.
 > 
-> Try the chatbot here: https://bitebuddy.streamlit.app/
+> Try the chatbot [here](https://bitebuddy.streamlit.app/)!
 
 [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
 
