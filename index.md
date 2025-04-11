@@ -59,6 +59,11 @@
 
 > When molecules get excited by light, the motion of electrons and nuclei become highly correlated—and figuring out how they influence each other is key to unraveling the mechanisms behind many important processes in physics, chemistry, industry, and biology. Think charge transfer in solar cells, DNA damage from UV light, breakthroughs in biomedical imaging, advancements in quantum computing, and the design of better catalysts. During my PhD research, I worked on the development of novel computational schemes aimed at simulating these complex molecular processes in an efficient and accurate manner, outpeforming standard approaches in nonadiabatic molecular simulations.
 
+[Open source contributions for molecular dynamics simulations]
+   
+
+> [g-ctmqc](https://gitlab.com/agostini.work/g-ctmqc/-/tree/CTMQC-E?ref_type=heads)
+> [QuantumModelLib](https://github.com/lauvergn/QuantumModelLib)
 
 ## Research Publications
 
