@@ -1,7 +1,8 @@
 title: Evaristo Villaseco # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br> I am a physicist driven by a passion for understanding, modeling, and explaining the world around me. My PhD research, at the intersection of chemistry and physics, focused on developing efficient and accurate algorithms to simulate photochemical processes. <br><br> I thrive on solving real-world problems through data-driven modeling, leveraging my skills across various domains. In addition to modeling the fundamental interactions driving photochemistry, I’ve worked on various projects with strong potenital for business impact, such as predicting La Liga match outcomes and optimizing restaurant supply classification.
+  <br> I am a physicist driven by a passion for understanding, modeling, and explaining the world around me. During my PhD research, I developed novel algorithms and forecasting models for molecular simulations aimign to understand how electrons and nuclei (tiny particles that move on time scales of quadrillionths of a second) drive complex molecular behavior. That same drive to model and explain the world now fuels my work in AI, machine learning, and data science. Whether I’m forecasting restaurant demand, predicting La Liga match outcomes, or building GenAI-powered assistants, I’m always looking for creative, data-driven ways to solve real-world problems. <br><br> I enjoy working at the intersection of theory and impact—turning insights into action, and ideas into tools that people can use. I’ve led research collaborations, contributed to open-source projects, and worked with startups to align AI solutions with product needs and business value.
+
 
   
 remote_theme: pages-themes/minimal@v0.2.0
