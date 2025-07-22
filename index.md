@@ -28,6 +28,14 @@
 > 
 > Try the chatbot [here](https://bitebuddy.streamlit.app/)!
 
+[RAG Backend]
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/db2a60a5-b2f0-4162-939f-e03cc41417ea" width="500" />
+</p>
+
+> In this project, I built a PoC backend for Retrieval-Augmented Generation (RAG), handling document ingestion, chunking, embedding, and in-memory vector indexing with thread-safe operations. It supports multiple indexing (brute-force, KD-Tree, LSH) and chunking strategies (fixed-length, sentence-based), with a pluggable embedding service (Cohere by default). The RESTful API offers CR(U)D and semantic search endpoints, with auto-generated Swagger docs. The app is fully Dockerized for easy deployment.
+
 [GenAI-Powered Solutions for the Restaurant Industry](https://github.com/EIB-Restaurant/burnt_labels)
 
 <p align="center">
