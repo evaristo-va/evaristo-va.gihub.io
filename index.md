@@ -28,7 +28,7 @@
 > 
 > Try the chatbot [here](https://bitebuddy.streamlit.app/)!
 
-[RAG Backend]
+[RAG Backend](https://github.com/evaristo-va/RAG_backend_PoC)
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/db2a60a5-b2f0-4162-939f-e03cc41417ea" width="500" />
