@@ -57,6 +57,14 @@
 >
 > Contributors: Dr. Davood Dar.
 
+[A Cross-Country Analysis of Youtube Trends](https://github.com/evaristo-va/YouTube_trends/blob/main/notebook_analysi.ipynb)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17296724-4808-4593-811e-7bdfc8d82122" width="500">
+</p>
+
+> In this project, I analyzed YouTube trending video data from multiple countries to uncover key factors driving video virality and creator success. I developed a custom engagement score to quantify audience interaction and explored patterns in content distribution, time-to-trend, and engagement across regions and categories. These insights can help creators optimize content, advertisers target audiences, and platforms improve recommendation systems.
+
 ## Physics Research
 
 [Exact Factorization-Based Mixed Quantum-Classical Dynamics](https://sites.rutgers.edu/maitra-group/people/evaristo-villaseco-arribas/)
